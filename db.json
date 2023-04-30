@@ -1,0 +1,16 @@
+{
+    "prodacts":[
+        {
+        "id":1,
+        "sku":"VT-T",
+        "title": "tomaato",
+        "category": "vegtables"
+    },
+    {
+        "id":2,
+        "sku":"VT-E",
+        "title": "egplant",
+        "category": "vegtables"
+    }
+]
+}
